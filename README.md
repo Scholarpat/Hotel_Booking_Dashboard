@@ -7,6 +7,7 @@ About the dataset:
 4. Specifically, City Hotel contains 13,682, 38,140, and 27,508 rows of data for 2015, 2016, and 2017, respectively. Resort Hotel contains 8,314, 18,567, and 13,179 rows for 2015, 2016, and 2017, respectively.
 
 The analysis of the dataset revealed several insights about the hotel bookings:
+
 • Preference for City Hotel: The data indicates that guests preferred City Hotel over Resort Hotel, with City Hotel accounting for more than 60% of the total bookings. This suggests that Resort Hotel could benefit from implementing similar strategies used by City Hotel to attract more guests.
 
 • Majority of Adult Guests: The majority of guests were adults, while babies were the least represented. This finding indicates that both hotels cater more to adult clientele and might consider offering family-friendly amenities to attract more families.
